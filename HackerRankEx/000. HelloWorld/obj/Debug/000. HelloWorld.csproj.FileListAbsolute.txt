@@ -4,3 +4,6 @@ C:\Users\Krasimir\Documents\visual studio 2015\Projects\HackerRankEx\000. HelloW
 C:\Users\Krasimir\Documents\visual studio 2015\Projects\HackerRankEx\000. HelloWorld\obj\Debug\000. HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\Krasimir\Documents\visual studio 2015\Projects\HackerRankEx\000. HelloWorld\obj\Debug\_000.HelloWorld.exe
 C:\Users\Krasimir\Documents\visual studio 2015\Projects\HackerRankEx\000. HelloWorld\obj\Debug\_000.HelloWorld.pdb
+F:\Programming\Git\Exercises\HackerRankEx\000. HelloWorld\bin\Debug\_000.HelloWorld.exe.config
+F:\Programming\Git\Exercises\HackerRankEx\000. HelloWorld\obj\Debug\_000.HelloWorld.exe
+F:\Programming\Git\Exercises\HackerRankEx\000. HelloWorld\obj\Debug\_000.HelloWorld.pdb

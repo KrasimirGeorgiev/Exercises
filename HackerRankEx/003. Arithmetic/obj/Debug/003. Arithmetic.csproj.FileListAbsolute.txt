@@ -3,3 +3,6 @@ C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\HackerRankEx\003. Arithm
 C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\HackerRankEx\003. Arithmetic\bin\Debug\_003.Arithmetic.pdb
 C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\HackerRankEx\003. Arithmetic\obj\Debug\_003.Arithmetic.exe
 C:\Users\Krasimir\Documents\Visual Studio 2015\Projects\HackerRankEx\003. Arithmetic\obj\Debug\_003.Arithmetic.pdb
+F:\Programming\Git\Exercises\HackerRankEx\003. Arithmetic\bin\Debug\_003.Arithmetic.exe.config
+F:\Programming\Git\Exercises\HackerRankEx\003. Arithmetic\obj\Debug\_003.Arithmetic.exe
+F:\Programming\Git\Exercises\HackerRankEx\003. Arithmetic\obj\Debug\_003.Arithmetic.pdb
