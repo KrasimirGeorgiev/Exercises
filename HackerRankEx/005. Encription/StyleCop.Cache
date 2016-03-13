@@ -1,10 +1,13 @@
 <stylecopresultscache>
   <version>12</version>
-  <sourcecode name="IfElseStatements.cs" parser="StyleCop.CSharp.CsParser">
+  <project key="1417475022">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Encription.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/01/09 18:27:33.425</settingsFile>
-      <sourceFile>2016/01/09 18:27:55.588</sourceFile>
+      <settingsFile>2016/03/13 15:58:43.849</settingsFile>
+      <sourceFile>2016/03/13 15:58:32.162</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -26,8 +29,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/01/09 18:27:33.425</settingsFile>
-      <sourceFile>2016/01/09 18:27:09.859</sourceFile>
+      <settingsFile>2016/03/13 15:58:43.849</settingsFile>
+      <sourceFile>2016/03/13 15:58:00.382</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +49,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1047568380">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>
