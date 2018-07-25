@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\bin\Debug\_002.PrintNumbers.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\bin\Debug\_002.PrintNumbers.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\bin\Debug\_002.PrintNumbers.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\obj\Debug\002. PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\obj\Debug\_002.PrintNumbers.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\002. PrintNumbers\obj\Debug\_002.PrintNumbers.pdb

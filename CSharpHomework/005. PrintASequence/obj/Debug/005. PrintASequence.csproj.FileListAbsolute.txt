@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\bin\Debug\_005.PrintASequence.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\bin\Debug\_005.PrintASequence.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\bin\Debug\_005.PrintASequence.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\obj\Debug\005. PrintASequence.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\obj\Debug\_005.PrintASequence.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\005. PrintASequence\obj\Debug\_005.PrintASequence.pdb

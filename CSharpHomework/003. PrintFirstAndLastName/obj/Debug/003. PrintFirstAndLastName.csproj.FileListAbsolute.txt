@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\003. PrintFirstAndLastName\bin\Debug\_003.PrintFirstAndLastName.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\003. PrintFirstAndLastName\bin\Debug\_003.PrintFirstAndLastName.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\003. PrintFirstAndLastName\bin\Debug\_003.PrintFirstAndLastName.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\003. PrintFirstAndLastName\obj\Debug\_003.PrintFirstAndLastName.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\003. PrintFirstAndLastName\obj\Debug\_003.PrintFirstAndLastName.pdb
