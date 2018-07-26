@@ -1,1 +1,2 @@
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\006. ReformatCode\bin\Debug\_006.ReformatCode.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\006. ReformatCode\bin\Debug\_006.ReformatCode.exe.config

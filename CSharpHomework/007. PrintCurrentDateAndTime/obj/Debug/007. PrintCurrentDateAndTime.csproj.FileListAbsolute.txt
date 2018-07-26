@@ -4,3 +4,6 @@ C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\00
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\007. PrintCurrentDateAndTime\obj\Debug\007. PrintCurrentDateAndTime.csprojResolveAssemblyReference.cache
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\007. PrintCurrentDateAndTime\obj\Debug\_007.PrintCurrentDateAndTime.exe
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\007. PrintCurrentDateAndTime\obj\Debug\_007.PrintCurrentDateAndTime.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\007. PrintCurrentDateAndTime\bin\Debug\_007.PrintCurrentDateAndTime.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\007. PrintCurrentDateAndTime\obj\Debug\_007.PrintCurrentDateAndTime.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\007. PrintCurrentDateAndTime\obj\Debug\_007.PrintCurrentDateAndTime.pdb

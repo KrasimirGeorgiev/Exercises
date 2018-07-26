@@ -4,3 +4,6 @@ C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\00
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\001. PrintYourName\obj\Debug\001. PrintYourName.csprojResolveAssemblyReference.cache
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\001. PrintYourName\obj\Debug\_001.PrintYourName.exe
 C:\Users\Krasimir\Desktop\InterviewPreparation\CSharp\Homework\CSharpHomework\001. PrintYourName\obj\Debug\_001.PrintYourName.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\001. PrintYourName\bin\Debug\_001.PrintYourName.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\001. PrintYourName\obj\Debug\_001.PrintYourName.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\001. PrintYourName\obj\Debug\_001.PrintYourName.pdb
