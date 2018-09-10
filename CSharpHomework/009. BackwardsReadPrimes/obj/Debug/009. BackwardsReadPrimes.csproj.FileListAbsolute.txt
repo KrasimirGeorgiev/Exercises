@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\bin\Debug\_009.BackwardsReadPrimes.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\bin\Debug\_009.BackwardsReadPrimes.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\bin\Debug\_009.BackwardsReadPrimes.pdb
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\obj\Debug\009. BackwardsReadPrimes.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\obj\Debug\_009.BackwardsReadPrimes.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\009. BackwardsReadPrimes\obj\Debug\_009.BackwardsReadPrimes.pdb

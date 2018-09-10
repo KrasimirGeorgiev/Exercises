@@ -1,0 +1,1 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\010. MoleculeToAtoms\bin\Debug\_010.MoleculeToAtoms.exe.config

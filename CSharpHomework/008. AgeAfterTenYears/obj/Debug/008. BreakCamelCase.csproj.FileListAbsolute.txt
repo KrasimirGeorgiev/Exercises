@@ -1,0 +1,3 @@
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\008. AgeAfterTenYears\bin\Debug\_008.AgeAfterTenYears.exe.config
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\008. AgeAfterTenYears\obj\Debug\_008.AgeAfterTenYears.exe
+C:\Users\Krasimir\Desktop\InterviewPreparation\repo\Exercises\CSharpHomework\008. AgeAfterTenYears\obj\Debug\_008.AgeAfterTenYears.pdb
